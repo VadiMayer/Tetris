@@ -79,16 +79,10 @@ public class Tetris {
         }
     }
 
-    /**
-     * Сеттер для figure
-     */
     public void setFigure(Figure figure) {
         this.figure = figure;
     }
 
-    /**
-     * Сеттер для field
-     */
     public void setField(Field field) {
         this.field = field;
     }
